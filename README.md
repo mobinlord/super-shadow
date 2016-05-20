@@ -1,4 +1,4 @@
-# [TeleMoon](https://telegram.me/TeleMoon)
+# [shadowking](https://telegram.me/shadowking_tg)
 
 **An advanced and powerful administration bot based on [SEEDTEAM/TeleSeed](https://github.com/seedteam/teleseed) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
 # Features
@@ -54,12 +54,11 @@ cd ..
 
 ###Our team telegram account!
 
-[MAKAN](https://telegram.me/makan)
+[Mobin](https://telegram.me/redteam_01_32)
 
-[Dilan](https://telegram.me/dilan)
+[Pouria](https://telegram.me/redteam_01_13)
 
-[Parham](https://telegram.me/UnFriendlly)
+[Abolfazl](https://telegram.me/SHO_OKER_ADMIN)
 
 ###Our Telegram channels:
-
-[@MoonTeam](https://telegram.me/MoonTeam)
+[@shadowking](https://telegram.me/shadowking_ch)
